@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://productcatalogueapi.jabra.com",
+  "responseTimeout": 1000,
+  "projectId": "ghvcei",
+  "video": false
+}
